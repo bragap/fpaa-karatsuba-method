@@ -1,4 +1,4 @@
-from method import karatsuba;
+from algorithm import karatsuba;
 
 # Main function
 def main():
