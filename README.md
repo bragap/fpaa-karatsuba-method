@@ -114,7 +114,7 @@ if __name__ == "__main__":
 
 # Control flow graph
 
-![Control flow graph](image-1.png)
+![Control flow graph](image.png)
 
 Source [here](https://lucid.app/lucidchart/4a90bde0-493f-4422-9f42-62c336b7fb18/edit?viewport_loc=-132%2C11%2C2505%2C1249%2C0_0&invitationId=inv_cba967d9-866c-47af-8c1d-922e2efcea95).
 
